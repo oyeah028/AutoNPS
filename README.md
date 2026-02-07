@@ -13,6 +13,7 @@
 在云服务商处购买一个云服务器。
 
 [阿里云八折优惠](https://www.aliyun.com/minisite/goods?userCode=49csqam7)
+
 建议使用以下配置。（记得在安全组中开放对应端口并设置定时释放，钱包空空不负责）
 
 ![](https://github.com/oyeah028/image/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260207145418_20_41.png?raw=true)

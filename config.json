@@ -1,6 +1,6 @@
 {
-    "host": "8.156.82.54",
+    "host": "Your Server IP",
     "username": "root",
-    "password": "chyCHY20121212",
-    "port": [25565]
+    "password": "Your Password",
+    "port": [11451]
 }

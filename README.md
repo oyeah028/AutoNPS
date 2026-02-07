@@ -10,9 +10,7 @@
 - mc房间: 以游戏中提示的端口为准
 - mc服务器(java): 25565
 
-在云服务商处购买一个云服务器。
-
-[阿里云八折优惠](https://www.aliyun.com/minisite/goods?userCode=49csqam7)
+在云服务商处购买一个云服务器 [阿里云八折优惠](https://www.aliyun.com/minisite/goods?userCode=49csqam7)。
 
 建议使用以下配置。（记得在安全组中开放对应端口并设置定时释放，钱包空空不负责）
 
